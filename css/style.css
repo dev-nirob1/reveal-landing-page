@@ -1,13 +1,19 @@
 .banner-img-1{
-    background-image: url("../image/carousel/3.jpg");
+    background-image: url("../resource/image/carousel/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100vh;
 }
 .banner-img-2{
-    background-image: url("../image/carousel/4.jpg");
+    background-image: url("../resource/image/carousel/2.jpg");
     height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .banner-img-3{
-    background-image: url("../image/carousel/5.jpg");
+    background-image: url("../resource/image/carousel/3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100vh;
 }
 .client-image{
